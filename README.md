@@ -9,3 +9,4 @@ in each turn an amount of points are given and each operation will take certain 
 when points are used up, you have to wait for the next turn.
 there are cases when a division is surrounded or out of supply
   (there does not exist an path from it to its base only passes places occupied by its county)
+contact "yue.xia@mail.mcgill.ca" for more information.
